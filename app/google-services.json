@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "824375836496",
+    "firebase_url": "https://fastmeals-d5dc1.firebaseio.com",
+    "project_id": "fastmeals-d5dc1",
+    "storage_bucket": "fastmeals-d5dc1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:824375836496:android:eb2fb21f0b1c7c85",
+        "android_client_info": {
+          "package_name": "com.EdwardFlores.fastmeals"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "824375836496-htqe3gej15kgu83ketdlb8s2ls9uooi7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.EdwardFlores.fastmeals",
+            "certificate_hash": "5c4cb89607e7ea3d5dd28852d359ba7aa1561c1b"
+          }
+        },
+        {
+          "client_id": "824375836496-7k2f2uhf8dj615v6dkkrc4t62k3q7utb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_7LgE_A5eA07-SyeoMj5JrvoxxlPs-Ik"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "824375836496-7k2f2uhf8dj615v6dkkrc4t62k3q7utb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
