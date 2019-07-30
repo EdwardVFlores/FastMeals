@@ -45,7 +45,7 @@
         app:layout_constraintStart_toEndOf="@+id/TakePicButton" />
 
     <ImageView
-        android:id="@+id/imageView"
+        android:id="@+id/ShowPicView"
         android:layout_width="0dp"
         android:layout_height="0dp"
         android:layout_marginStart="8dp"
